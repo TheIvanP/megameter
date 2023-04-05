@@ -1,0 +1,6 @@
+requests
+selenium
+pytesseract
+Pillow
+fastapi[all]
+gunicorn
